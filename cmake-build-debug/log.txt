@@ -1,0 +1,100 @@
+>Sun May 14 15:45:28 2017
+Account #896096250 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #891111281 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #201809734 created | Employee Username: rana
+>Sun May 14 15:45:28 2017
+Account #806601590 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #960184327 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #471436957 created | Employee Username: rana
+>Sun May 14 15:45:28 2017
+Account #641584541 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #663698533 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #620979815 created | Employee Username: rana
+>Sun May 14 15:45:28 2017
+Account #738466290 created | Employee Username: rana
+>Sun May 14 15:45:28 2017
+Account #834952084 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #187082832 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #998865822 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #817281270 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #251170909 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #864057211 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #112315075 created | Employee Username: rana
+>Sun May 14 15:45:28 2017
+Account #144354113 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #813592725 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #763872872 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #999888123 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #701378502 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #843737549 created | Employee Username: ahmed
+>Sun May 14 15:45:28 2017
+Account #874169465 created | Employee Username: ahmed
+>Sun May 14 17:01:38 2017
+Account #874169465 made a $2000 deposit | Employee Username: ahmed
+>Sun May 14 19:20:59 2017
+Account #206077215 created | Employee Username: ahmed
+>Sun May 14 19:30:40 2017
+Account #896096250 made a $50000 deposit | Employee Username: rana
+>Sun May 14 19:35:18 2017
+Account #896096250 made a $2500 withdraw | Employee Username: rana
+>Sun May 14 19:38:28 2017
+Account #896096250 made a $9000 withdraw | Employee Username: rana
+>Sun May 14 20:53:52 2017
+Account #896096250 made a $300 withdraw | Employee Username: rana
+>Sun May 14 20:55:10 2017
+Account #896096250 made a $2000 transfer to Account #874169465 | Employee Username: rana
+>Sun May 14 20:55:10 2017
+Account #874169465 received a $2000 transfer from Account #896096250 | Employee Username: rana
+>Sun May 14 21:07:54 2017
+Account #891111281 made a $5000 transfer to Account #874169465 | Employee Username: rana
+>Sun May 14 21:07:54 2017
+Account #874169465 received a $5000 transfer from Account #891111281 | Employee Username: rana
+>Sun May 14 21:08:36 2017
+Account #874169465 made a $40000 deposit | Employee Username: rana
+>Sun May 14 21:08:52 2017
+Account #874169465 made a $30000 withdraw | Employee Username: rana
+>Sun May 14 21:22:11 2017
+Account #738466290 closed | Employee Username: rana
+>Sun May 14 21:26:00 2017
+Account #763872872 closed | Employee Username: rana
+>Sun May 14 22:10:51 2017
+Account #817281270 made a $14000 deposit | Employee Username: rana
+>Mon May 15 02:19:40 2017
+Account #999888123 made a $3333.3 transfer to Account #620979815 | Employee Username: ramy
+>Mon May 15 02:19:40 2017
+Account #620979815 received a $3333.3 transfer from Account #999888123 | Employee Username: ramy
+>Mon May 15 02:44:28 2017
+Account #228700607 created | Employee Username: rana
+>Mon May 15 11:41:12 2017
+Account #896096250 made a $20000 deposit | Employee Username: rana
+>Mon May 15 11:43:59 2017
+Account #816061810 created | Employee Username: rana
+>Mon May 15 11:46:25 2017
+Account #816061810 made a $2000 transfer to Account #228700607 | Employee Username: rana
+>Mon May 15 11:46:25 2017
+Account #228700607 received a $2000 transfer from Account #816061810 | Employee Username: rana
+>Mon May 15 11:47:23 2017
+Account #228700607 made a $20000 deposit | Employee Username: rana
+>Mon May 15 11:48:17 2017
+Account #228700607 made a $2000 transfer to Account #206077215 | Employee Username: rana
+>Mon May 15 11:48:17 2017
+Account #206077215 received a $2000 transfer from Account #228700607 | Employee Username: rana
+>Mon May 15 12:04:40 2017
+Account #806601590 made a $20000 deposit | Employee Username: rana

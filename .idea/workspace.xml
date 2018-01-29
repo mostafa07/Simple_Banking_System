@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="DS_Project_Banking_System" targetName="DS_Project_Banking_System" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6970b052-bb0f-44ca-bd86-984af54b9f46" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1844#2806#0" expanded="false" />
+                <element signature="e#2808#3829#0" expanded="false" />
+                <element signature="e#3831#4381#0" expanded="false" />
+                <element signature="e#4383#4922#0" expanded="false" />
+                <element signature="e#4924#5205#0" expanded="false" />
+                <element signature="e#5207#5721#0" expanded="false" />
+                <element signature="e#5723#6660#0" expanded="false" />
+                <element signature="e#6662#17140#0" expanded="false" />
+                <element signature="e#17142#17401#0" expanded="false" />
+                <element signature="e#17403#19169#0" expanded="false" />
+                <element signature="e#19171#19453#0" expanded="false" />
+                <element signature="e#19455#19857#0" expanded="false" />
+                <element signature="e#19859#20343#0" expanded="false" />
+                <element signature="e#20345#20523#0" expanded="false" />
+                <element signature="e#20525#20563#0" expanded="false" />
+                <element signature="e#20631#20675#0" expanded="false" />
+                <element signature="e#20780#21188#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4080">
+              <caret line="240" column="25" lean-forward="false" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
+              <folding>
+                <element signature="e#766#778#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Account.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Employee.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Account.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Employee.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int value</find>
+      <find>int</find>
+      <find>exit</find>
+      <find>getTime</find>
+      <find>logEntry &lt;&lt;</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>double value</replace>
+      <replace>double</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/File.h" />
+        <option value="$USER_HOME$/Documents/eclipse_neon_cpp_workspaces/workspace_DS/filesTrial/main.cpp" />
+        <option value="$PROJECT_DIR$/Person.cpp" />
+        <option value="$PROJECT_DIR$/Person.h" />
+        <option value="$PROJECT_DIR$/Client.h" />
+        <option value="$PROJECT_DIR$/Client.cpp" />
+        <option value="$PROJECT_DIR$/LinkedList.h" />
+        <option value="$PROJECT_DIR$/Employee.h" />
+        <option value="$PROJECT_DIR$/Employee.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/banking.h" />
+        <option value="$PROJECT_DIR$/banking.h" />
+        <option value="$PROJECT_DIR$/banking.cpp" />
+        <option value="$PROJECT_DIR$/Account.cpp" />
+        <option value="$PROJECT_DIR$/Account.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DS_Project_Banking_System" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="DS_Project_Banking_System" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mostafa Mahmoud\CLionProjects\DS_Project_Banking_System\cmake-build-debug\CMakeFiles" />
+      <recent name="C:\Users\Mostafa Mahmoud\CLionProjects\DS_Project_Banking_System" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mostafa Mahmoud\CLionProjects\DS_Project_Banking_System\cmake-build-debug\CMakeFiles" />
+      <recent name="C:\Users\Mostafa Mahmoud\CLionProjects\DS_Project_Banking_System" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DS_Project_Banking_System">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DS_Project_Banking_System" RUN_TARGET_NAME="DS_Project_Banking_System" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="DS_Project_Banking_System" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DS_Project_Banking_System" TARGET_NAME="DS_Project_Banking_System" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DS_Project_Banking_System" RUN_TARGET_NAME="DS_Project_Banking_System">
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DS_Project_Banking_System" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.DS_Project_Banking_System" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6970b052-bb0f-44ca-bd86-984af54b9f46" name="Default" comment="" />
+      <created>1494109605619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494109605619</updated>
+      <workItem from="1494109607248" duration="6589000" />
+      <workItem from="1494179020655" duration="3495000" />
+      <workItem from="1494455108908" duration="616000" />
+      <workItem from="1494510641490" duration="13708000" />
+      <workItem from="1494591111377" duration="22673000" />
+      <workItem from="1494633971370" duration="5700000" />
+      <workItem from="1494689871607" duration="26441000" />
+      <workItem from="1494766470192" duration="23238000" />
+      <workItem from="1494841111659" duration="1565000" />
+      <workItem from="1498530145554" duration="43000" />
+      <workItem from="1501513124598" duration="325000" />
+      <workItem from="1502984700944" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104428000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19894099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2618658" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33224222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="employees" />
+        <watch expression="accounts" />
+        <watch expression="currentClient" />
+        <watch expression="currentEmployee" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="83" lean-forward="false" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="4" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="96" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.h" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.cpp" />
+    <entry file="file://$PROJECT_DIR$/Client.h" />
+    <entry file="file://$PROJECT_DIR$/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+          <folding>
+            <element signature="e#766#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.cpp" />
+    <entry file="file://$PROJECT_DIR$/Client.h" />
+    <entry file="file://$PROJECT_DIR$/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+          <folding>
+            <element signature="e#766#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+          <folding>
+            <element signature="e#766#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LinkedList/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File.cpp" />
+    <entry file="file://$PROJECT_DIR$/File.h" />
+    <entry file="file://$USER_HOME$/Documents/eclipse_neon_cpp_workspaces/workspace_DS/filesTrial/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Person.h" />
+    <entry file="file://$PROJECT_DIR$/Person.cpp" />
+    <entry file="file://$PROJECT_DIR$/Client.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/trialFile.txt" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/numberFile.txt" />
+    <entry file="file://$PROJECT_DIR$/Client.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/employees.txt" />
+    <entry file="file://$PROJECT_DIR$/banking.cpp.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/banking.h" />
+    <entry file="file://$PROJECT_DIR$/banking.cpp" />
+    <entry file="file://$PROJECT_DIR$/banking.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/include/c++/6.2.0/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8466">
+          <caret line="1152" column="0" lean-forward="false" selection-start-line="1152" selection-start-column="0" selection-end-line="1152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/include/c++/6.2.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4932" column="0" lean-forward="false" selection-start-line="4932" selection-start-column="0" selection-end-line="4932" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1844#2806#0" expanded="false" />
+            <element signature="e#2808#3829#0" expanded="false" />
+            <element signature="e#3831#4381#0" expanded="false" />
+            <element signature="e#4383#4922#0" expanded="false" />
+            <element signature="e#4924#5205#0" expanded="false" />
+            <element signature="e#5207#5721#0" expanded="false" />
+            <element signature="e#5723#6660#0" expanded="false" />
+            <element signature="e#6662#17140#0" expanded="false" />
+            <element signature="e#17142#17401#0" expanded="false" />
+            <element signature="e#17403#19169#0" expanded="false" />
+            <element signature="e#19171#19453#0" expanded="false" />
+            <element signature="e#19455#19857#0" expanded="false" />
+            <element signature="e#19859#20343#0" expanded="false" />
+            <element signature="e#20345#20523#0" expanded="false" />
+            <element signature="e#20525#20563#0" expanded="false" />
+            <element signature="e#20631#20675#0" expanded="false" />
+            <element signature="e#20780#21188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="240" column="25" lean-forward="false" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
+          <folding>
+            <element signature="e#766#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Account.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

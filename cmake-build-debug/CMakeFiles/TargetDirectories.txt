@@ -1,0 +1,3 @@
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/CMakeFiles/DS_Project_Banking_System.dir
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

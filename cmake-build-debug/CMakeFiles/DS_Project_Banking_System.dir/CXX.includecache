@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.cpp
+Account.h
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.h
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.h
+iostream
+-
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.cpp
+Employee.h
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.h
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.h
+iostream
+-
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/LinkedList.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+ctime
+-
+LinkedList.h
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/LinkedList.h
+Account.h
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.h
+Employee.h
+C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.h
+

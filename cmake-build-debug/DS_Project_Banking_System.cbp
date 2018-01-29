@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DS_Project_Banking_System"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS_Project_Banking_System">
+				<Option output="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/DS_Project_Banking_System.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS_Project_Banking_System"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS_Project_Banking_System/fast">
+				<Option output="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/DS_Project_Banking_System.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../include/c++/6.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS_Project_Banking_System/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.cpp">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Account.h">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.cpp">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/Employee.h">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/LinkedList.h">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/main.cpp">
+			<Option target="DS_Project_Banking_System"/>
+		</Unit>
+		<Unit filename="C:/Users/Mostafa Mahmoud/CLionProjects/DS_Project_Banking_System/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
